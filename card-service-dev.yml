@@ -1,6 +1,5 @@
 card-service:
-        minimum: 1 
-        maximum: 1111 
+        card-brand-name: Visa  
 
 
 

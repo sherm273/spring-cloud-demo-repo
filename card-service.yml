@@ -1,6 +1,2 @@
 card-service:
-        minimum: 99
-        maximum: 9999
-
-
-
+        card-brand-name: Mastercard 
